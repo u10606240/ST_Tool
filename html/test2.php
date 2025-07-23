@@ -11,7 +11,7 @@ require_once ('connect_database.php');?>
 <head>
 	<meta charset="utf-8">
 	<title>Search</title>
-	<link rel="Icon" type="image/x-icon" href="logo2.ico" />
+	<link rel="Icon" type="image/x-icon" href="images/logo2.ico" />
 </head>
 <?php 
 echo '<span style="color: #003E3E; font-size: 50px;"> ';
@@ -349,7 +349,7 @@ echo '</span>';
 }
 
 body {
-  background-image: url("smedtrum_background2.jpg");
+  background-image: url("images/smedtrum_background2.jpg");
   background-position: center;
   background-size: 105% 105%;
   background-repeat: no-repeat;

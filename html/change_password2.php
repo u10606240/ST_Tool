@@ -12,7 +12,7 @@ $tmp = date("Y-m-d");?>
 <head>
 	<meta charset="utf-8">
 	<title>Change Password</title>
-	<link rel="Icon" type="image/x-icon" href="logo2.ico" />
+	<link rel="Icon" type="image/x-icon" href="images/logo2.ico" />
 </head>
 <?php echo '<span style="color: #007979; font-size: 50px;"> ';
 echo "&thinsp;Hello,".$_SESSION['username'];
@@ -325,7 +325,7 @@ echo '</span>';
 }
 
 body {
-  background-image: url("smedtrum_background3.jpg");
+  background-image: url("images/smedtrum_background3.jpg");
   background-position: center;
   background-size: 100% 100%;
   background-repeat: no-repeat;
